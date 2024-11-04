@@ -1,6 +1,6 @@
 - 👋 Hi, I’m hoyeol .
 - 👀 I’m interested in programming, travel.
-- 🌱 I’m currently learning Data structure, algorithm, C, C++ ....
+- 🌱 I’m currently computer science ....
 
 
 <!---
