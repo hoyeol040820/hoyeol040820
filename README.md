@@ -1,1 +1,1 @@
-- 👋 Hi, I’m hoyeol .
+- 👋 Hi, I’m Hoyeol Yang.
